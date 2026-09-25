@@ -1,0 +1,17 @@
+WEBSCOPEX v3.0 - QUICK START
+
+1. Run INSTALL.bat
+2. Run RUN_WEBSCOPEX_DEBUG.bat for the first launch
+3. Enter an authorized target domain
+4. Set the scope root
+5. Choose Quick / Standard / Deep / Custom
+6. Start Scan
+7. Review Findings, Recon Graph and Delta Scan
+8. Save recurring targets under Workspaces
+9. Use Tool Status to install/detect optional integrations
+
+CLI:
+RUN_WEBSCOPEX_CLI.bat example.com Standard
+
+Reports:
+%USERPROFILE%\WebScopeX-Reports\<target>\<timestamp>\
