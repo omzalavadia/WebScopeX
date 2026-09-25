@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+install_log.txt
+.DS_Store
+.vscode/
+.idea/
+WebScopeX-Reports/
+dist/
+build/
+*.egg-info/
