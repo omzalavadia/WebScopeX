@@ -4,7 +4,7 @@
 
 Windows-first web reconnaissance and enumeration workspace for **authorized security assessments**. WebScopeX combines a richer asset graph, scan-to-scan delta tracking, persistent workspaces, searchable findings, a redesigned report, an external-tool manager, full CLI mode, and a GitHub-ready repository layout.
 
-![Dashboard preview](docs/screenshots/dashboard.png)
+![Dashboard preview](dashboard.png)
 
 ## Highlights
 
@@ -102,3 +102,14 @@ WebScopeX/
 ## Safety / scope
 
 Use WebScopeX only on systems you own or have explicit authorization to test. The scope guard reduces accidental traversal outside the declared domain boundary, but it does not replace written permission or a defined rules-of-engagement document.
+
+
+## Disclaimer
+
+WebScopeX is provided strictly for **educational, defensive, and authorized security assessment purposes**.
+
+You must only use this software on systems, applications, networks, or assets that you own or for which you have explicit permission to test. You are responsible for understanding and following all applicable laws, rules of engagement, bug-bounty program policies, and organizational requirements.
+
+The authors and contributors are not responsible for misuse, unauthorized testing, service disruption, data loss, legal consequences, or other damage resulting from use of this software.
+
+WebScopeX is provided **"as is"**, without warranties of any kind. Always test carefully, respect scope boundaries, and obtain written authorization where appropriate.
